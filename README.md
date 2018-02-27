@@ -1,3 +1,6 @@
+***Note:*** This fork was created to answer the [question on Stack Overflow][1]. It is a working repository of the NetlifyCMS without the Hugo bin folder.
+
+
 # Hugo template for Netlify CMS with Netlify Identity
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
@@ -44,3 +47,5 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+
+[1]: https://stackoverflow.com/questions/48999330/how-to-use-the-container-hugo-version-with-one-click-netlify-cms-example
